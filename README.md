@@ -11,8 +11,7 @@ Features:
           Skills Section – Lists your technical skills in an organized manner.
           Contact Form – Allows visitors to get in touch easily.
           Interactive Elements – Smooth scrolling, hover effects, and animations.
-          Lightweight & Fast – Optimized for fast loading with minimal dependencies.
-Screenshots:
+          Lightweight & Fast – Optimized for fast loading with minimal dependencies
            
 Live Demo Link:
           https://iridescent-creponne-2c8d24.netlify.app/
